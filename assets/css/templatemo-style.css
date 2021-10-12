@@ -439,6 +439,7 @@ button:hover {
 
 .service-item:hover {
     background-color: rgba(250, 250, 250, 1);
+    color: #a43f49;
 }
 
 .service-item:hover h4 {
